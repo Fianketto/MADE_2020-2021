@@ -1,0 +1,450 @@
+"contest_num","during_contest","during_soft_deadline","after_solution","verdict","submit_count_total"
+1,0,0,0,Accepted,45
+1,0,0,0,Compilation error,1
+1,0,0,0,Memory limit exceeded on test,3
+1,0,0,0,Runtime error on test,17
+1,0,0,0,Time limit exceeded on test,24
+1,0,0,0,Wrong answer on test,35
+1,0,0,1,Accepted,102
+1,0,0,1,Compilation error,15
+1,0,0,1,Memory limit exceeded on test,4
+1,0,0,1,Runtime error on test,46
+1,0,0,1,Time limit exceeded on test,18
+1,0,0,1,Wrong answer on test,36
+1,1,0,0,Accepted,169
+1,1,0,0,Compilation error,21
+1,1,0,0,Idleness limit exceeded on test,2
+1,1,0,0,Memory limit exceeded on test,19
+1,1,0,0,Runtime error on test,133
+1,1,0,0,Time limit exceeded on test,81
+1,1,0,0,Wrong answer on test,149
+1,1,0,1,Accepted,524
+1,1,0,1,Compilation error,21
+1,1,0,1,Memory limit exceeded on test,15
+1,1,0,1,Runtime error on test,72
+1,1,0,1,Time limit exceeded on test,28
+1,1,0,1,Wrong answer on test,50
+1,1,1,0,Accepted,1500
+1,1,1,0,Compilation error,144
+1,1,1,0,Idleness limit exceeded on test,3
+1,1,1,0,Memory limit exceeded on test,77
+1,1,1,0,Runtime error on test,535
+1,1,1,0,Time limit exceeded on test,438
+1,1,1,0,Wrong answer on test,1041
+1,1,1,1,Accepted,883
+1,1,1,1,Compilation error,75
+1,1,1,1,Memory limit exceeded on test,23
+1,1,1,1,Runtime error on test,130
+1,1,1,1,Time limit exceeded on test,82
+1,1,1,1,Wrong answer on test,135
+2,0,0,0,Accepted,14
+2,0,0,0,Compilation error,1
+2,0,0,0,Memory limit exceeded on test,16
+2,0,0,0,Runtime error on test,11
+2,0,0,0,Time limit exceeded on test,25
+2,0,0,0,Wrong answer on test,33
+2,0,0,1,Accepted,73
+2,0,0,1,Compilation error,4
+2,0,0,1,Runtime error on test,18
+2,0,0,1,Time limit exceeded on test,21
+2,0,0,1,Wrong answer on test,36
+2,1,0,0,Accepted,196
+2,1,0,0,Compilation error,26
+2,1,0,0,Idleness limit exceeded on test,3
+2,1,0,0,Memory limit exceeded on test,32
+2,1,0,0,Runtime error on test,150
+2,1,0,0,Time limit exceeded on test,369
+2,1,0,0,Wrong answer on test,379
+2,1,0,1,Accepted,428
+2,1,0,1,Compilation error,36
+2,1,0,1,Runtime error on test,49
+2,1,0,1,Time limit exceeded on test,56
+2,1,0,1,Wrong answer on test,46
+2,1,1,0,Accepted,763
+2,1,1,0,Compilation error,147
+2,1,1,0,Idleness limit exceeded on test,2
+2,1,1,0,Memory limit exceeded on test,71
+2,1,1,0,Runtime error on test,706
+2,1,1,0,Time limit exceeded on test,1431
+2,1,1,0,Wrong answer on test,1615
+2,1,1,1,Accepted,868
+2,1,1,1,Compilation error,41
+2,1,1,1,Memory limit exceeded on test,1
+2,1,1,1,Runtime error on test,131
+2,1,1,1,Time limit exceeded on test,168
+2,1,1,1,Wrong answer on test,117
+3,0,0,0,Accepted,49
+3,0,0,0,Compilation error,6
+3,0,0,0,Runtime error on test,22
+3,0,0,0,Time limit exceeded on test,69
+3,0,0,0,Wrong answer on test,105
+3,0,0,1,Accepted,94
+3,0,0,1,Compilation error,4
+3,0,0,1,Runtime error on test,9
+3,0,0,1,Time limit exceeded on test,6
+3,0,0,1,Wrong answer on test,52
+3,1,0,0,Accepted,334
+3,1,0,0,Compilation error,30
+3,1,0,0,Memory limit exceeded on test,1
+3,1,0,0,Runtime error on test,127
+3,1,0,0,Time limit exceeded on test,238
+3,1,0,0,Wrong answer on test,592
+3,1,0,1,Accepted,692
+3,1,0,1,Compilation error,26
+3,1,0,1,Runtime error on test,72
+3,1,0,1,Time limit exceeded on test,20
+3,1,0,1,Wrong answer on test,146
+3,1,1,0,Accepted,1125
+3,1,1,0,Compilation error,72
+3,1,1,0,Idleness limit exceeded on test,4
+3,1,1,0,Memory limit exceeded on test,6
+3,1,1,0,Runtime error on test,380
+3,1,1,0,Time limit exceeded on test,722
+3,1,1,0,Wrong answer on test,2024
+3,1,1,1,Accepted,1144
+3,1,1,1,Compilation error,40
+3,1,1,1,Runtime error on test,107
+3,1,1,1,Time limit exceeded on test,88
+3,1,1,1,Wrong answer on test,259
+4,0,0,0,Accepted,121
+4,0,0,0,Compilation error,48
+4,0,0,0,Runtime error on test,176
+4,0,0,0,Time limit exceeded on test,142
+4,0,0,0,Wrong answer on test,302
+4,0,0,1,Accepted,375
+4,0,0,1,Compilation error,33
+4,0,0,1,Memory limit exceeded on test,5
+4,0,0,1,Runtime error on test,166
+4,0,0,1,Time limit exceeded on test,16
+4,0,0,1,Wrong answer on test,88
+4,1,0,0,Accepted,356
+4,1,0,0,Compilation error,46
+4,1,0,0,Memory limit exceeded on test,21
+4,1,0,0,Runtime error on test,435
+4,1,0,0,Time limit exceeded on test,341
+4,1,0,0,Wrong answer on test,657
+4,1,0,1,Accepted,646
+4,1,0,1,Compilation error,26
+4,1,0,1,Memory limit exceeded on test,11
+4,1,0,1,Runtime error on test,157
+4,1,0,1,Time limit exceeded on test,26
+4,1,0,1,Wrong answer on test,80
+4,1,1,0,Accepted,418
+4,1,1,0,Compilation error,45
+4,1,1,0,Memory limit exceeded on test,31
+4,1,1,0,Runtime error on test,461
+4,1,1,0,Time limit exceeded on test,594
+4,1,1,0,Wrong answer on test,571
+4,1,1,1,Accepted,547
+4,1,1,1,Compilation error,14
+4,1,1,1,Memory limit exceeded on test,3
+4,1,1,1,Runtime error on test,121
+4,1,1,1,Time limit exceeded on test,23
+4,1,1,1,Wrong answer on test,69
+5,0,0,0,Accepted,32
+5,0,0,0,Compilation error,3
+5,0,0,0,Memory limit exceeded on test,6
+5,0,0,0,Runtime error on test,77
+5,0,0,0,Time limit exceeded on test,120
+5,0,0,0,Wrong answer on test,138
+5,0,0,1,Accepted,82
+5,0,0,1,Compilation error,6
+5,0,0,1,Memory limit exceeded on test,1
+5,0,0,1,Runtime error on test,35
+5,0,0,1,Time limit exceeded on test,55
+5,0,0,1,Wrong answer on test,46
+5,1,0,0,Accepted,192
+5,1,0,0,Compilation error,81
+5,1,0,0,Memory limit exceeded on test,95
+5,1,0,0,Runtime error on test,715
+5,1,0,0,Time limit exceeded on test,1277
+5,1,0,0,Wrong answer on test,1035
+5,1,0,1,Accepted,774
+5,1,0,1,Compilation error,47
+5,1,0,1,Memory limit exceeded on test,24
+5,1,0,1,Runtime error on test,279
+5,1,0,1,Time limit exceeded on test,480
+5,1,0,1,Wrong answer on test,392
+5,1,1,0,Accepted,434
+5,1,1,0,Compilation error,128
+5,1,1,0,Memory limit exceeded on test,157
+5,1,1,0,Runtime error on test,1283
+5,1,1,0,Time limit exceeded on test,2945
+5,1,1,0,Wrong answer on test,2218
+5,1,1,1,Accepted,1276
+5,1,1,1,Compilation error,58
+5,1,1,1,Memory limit exceeded on test,62
+5,1,1,1,Runtime error on test,406
+5,1,1,1,Time limit exceeded on test,824
+5,1,1,1,Wrong answer on test,782
+6,0,0,0,Accepted,22
+6,0,0,0,Compilation error,1
+6,0,0,0,Memory limit exceeded on test,3
+6,0,0,0,Runtime error on test,5
+6,0,0,0,Wrong answer on test,42
+6,0,0,1,Accepted,16
+6,0,0,1,Compilation error,1
+6,0,0,1,Wrong answer on test,2
+6,1,0,0,Accepted,340
+6,1,0,0,Compilation error,36
+6,1,0,0,Memory limit exceeded on test,45
+6,1,0,0,Runtime error on test,224
+6,1,0,0,Time limit exceeded on test,35
+6,1,0,0,Wrong answer on test,556
+6,1,0,1,Accepted,441
+6,1,0,1,Compilation error,14
+6,1,0,1,Memory limit exceeded on test,3
+6,1,0,1,Runtime error on test,62
+6,1,0,1,Time limit exceeded on test,3
+6,1,0,1,Wrong answer on test,33
+6,1,1,0,Accepted,693
+6,1,1,0,Compilation error,51
+6,1,1,0,Memory limit exceeded on test,52
+6,1,1,0,Runtime error on test,317
+6,1,1,0,Time limit exceeded on test,69
+6,1,1,0,Wrong answer on test,1254
+6,1,1,1,Accepted,614
+6,1,1,1,Compilation error,8
+6,1,1,1,Memory limit exceeded on test,4
+6,1,1,1,Runtime error on test,54
+6,1,1,1,Time limit exceeded on test,6
+6,1,1,1,Wrong answer on test,94
+7,0,0,0,Accepted,33
+7,0,0,0,Compilation error,18
+7,0,0,0,Memory limit exceeded on test,10
+7,0,0,0,Runtime error on test,41
+7,0,0,0,Time limit exceeded on test,68
+7,0,0,0,Wrong answer on test,111
+7,0,0,1,Accepted,47
+7,0,0,1,Compilation error,1
+7,0,0,1,Runtime error on test,7
+7,0,0,1,Time limit exceeded on test,5
+7,0,0,1,Wrong answer on test,3
+7,1,0,0,Accepted,239
+7,1,0,0,Compilation error,104
+7,1,0,0,Memory limit exceeded on test,63
+7,1,0,0,Runtime error on test,362
+7,1,0,0,Time limit exceeded on test,460
+7,1,0,0,Wrong answer on test,903
+7,1,0,1,Accepted,470
+7,1,0,1,Compilation error,35
+7,1,0,1,Memory limit exceeded on test,2
+7,1,0,1,Runtime error on test,38
+7,1,0,1,Time limit exceeded on test,35
+7,1,0,1,Wrong answer on test,99
+7,1,1,0,Accepted,402
+7,1,1,0,Compilation error,131
+7,1,1,0,Idleness limit exceeded on test,2
+7,1,1,0,Memory limit exceeded on test,125
+7,1,1,0,Runtime error on test,542
+7,1,1,0,Time limit exceeded on test,898
+7,1,1,0,Wrong answer on test,1395
+7,1,1,1,Accepted,654
+7,1,1,1,Compilation error,47
+7,1,1,1,Idleness limit exceeded on test,1
+7,1,1,1,Memory limit exceeded on test,4
+7,1,1,1,Runtime error on test,69
+7,1,1,1,Time limit exceeded on test,124
+7,1,1,1,Wrong answer on test,149
+8,0,0,0,Accepted,27
+8,0,0,0,Compilation error,8
+8,0,0,0,Runtime error on test,71
+8,0,0,0,Time limit exceeded on test,52
+8,0,0,0,Wrong answer on test,62
+8,0,0,1,Accepted,55
+8,0,0,1,Compilation error,8
+8,0,0,1,Runtime error on test,4
+8,0,0,1,Time limit exceeded on test,15
+8,0,0,1,Wrong answer on test,52
+8,1,0,0,Accepted,248
+8,1,0,0,Compilation error,66
+8,1,0,0,Runtime error on test,449
+8,1,0,0,Time limit exceeded on test,216
+8,1,0,0,Wrong answer on test,654
+8,1,0,1,Accepted,487
+8,1,0,1,Compilation error,22
+8,1,0,1,Runtime error on test,111
+8,1,0,1,Time limit exceeded on test,12
+8,1,0,1,Wrong answer on test,75
+8,1,1,0,Accepted,317
+8,1,1,0,Compilation error,34
+8,1,1,0,Memory limit exceeded on test,1
+8,1,1,0,Runtime error on test,436
+8,1,1,0,Time limit exceeded on test,267
+8,1,1,0,Wrong answer on test,673
+8,1,1,1,Accepted,477
+8,1,1,1,Compilation error,21
+8,1,1,1,Runtime error on test,104
+8,1,1,1,Time limit exceeded on test,28
+8,1,1,1,Wrong answer on test,110
+9,0,0,0,Accepted,52
+9,0,0,0,Compilation error,1
+9,0,0,0,Runtime error on test,35
+9,0,0,0,Time limit exceeded on test,63
+9,0,0,0,Wrong answer on test,100
+9,0,0,1,Accepted,80
+9,0,0,1,Runtime error on test,13
+9,0,0,1,Time limit exceeded on test,24
+9,0,0,1,Wrong answer on test,21
+9,1,0,0,Accepted,232
+9,1,0,0,Compilation error,20
+9,1,0,0,Runtime error on test,139
+9,1,0,0,Time limit exceeded on test,197
+9,1,0,0,Wrong answer on test,466
+9,1,0,1,Accepted,420
+9,1,0,1,Compilation error,15
+9,1,0,1,Runtime error on test,50
+9,1,0,1,Time limit exceeded on test,21
+9,1,0,1,Wrong answer on test,90
+9,1,1,0,Accepted,291
+9,1,1,0,Compilation error,19
+9,1,1,0,Runtime error on test,196
+9,1,1,0,Time limit exceeded on test,165
+9,1,1,0,Wrong answer on test,508
+9,1,1,1,Accepted,360
+9,1,1,1,Compilation error,9
+9,1,1,1,Runtime error on test,16
+9,1,1,1,Time limit exceeded on test,7
+9,1,1,1,Wrong answer on test,58
+10,0,0,0,Accepted,38
+10,0,0,0,Compilation error,7
+10,0,0,0,Memory limit exceeded on test,9
+10,0,0,0,Runtime error on test,29
+10,0,0,0,Time limit exceeded on test,1
+10,0,0,0,Wrong answer on test,97
+10,0,0,1,Accepted,80
+10,0,0,1,Compilation error,6
+10,0,0,1,Memory limit exceeded on test,6
+10,0,0,1,Runtime error on test,19
+10,0,0,1,Time limit exceeded on test,4
+10,0,0,1,Wrong answer on test,30
+10,1,0,0,Accepted,358
+10,1,0,0,Compilation error,29
+10,1,0,0,Memory limit exceeded on test,114
+10,1,0,0,Runtime error on test,195
+10,1,0,0,Time limit exceeded on test,36
+10,1,0,0,Wrong answer on test,784
+10,1,0,1,Accepted,448
+10,1,0,1,Compilation error,15
+10,1,0,1,Memory limit exceeded on test,5
+10,1,0,1,Runtime error on test,22
+10,1,0,1,Wrong answer on test,98
+10,1,1,0,Accepted,555
+10,1,1,0,Compilation error,47
+10,1,1,0,Memory limit exceeded on test,134
+10,1,1,0,Runtime error on test,392
+10,1,1,0,Time limit exceeded on test,93
+10,1,1,0,Wrong answer on test,867
+10,1,1,1,Accepted,667
+10,1,1,1,Compilation error,29
+10,1,1,1,Memory limit exceeded on test,23
+10,1,1,1,Runtime error on test,93
+10,1,1,1,Time limit exceeded on test,6
+10,1,1,1,Wrong answer on test,105
+11,0,0,0,Accepted,28
+11,0,0,0,Compilation error,2
+11,0,0,0,Idleness limit exceeded on test,1
+11,0,0,0,Memory limit exceeded on test,32
+11,0,0,0,Runtime error on test,32
+11,0,0,0,Time limit exceeded on test,27
+11,0,0,0,Wrong answer on test,102
+11,0,0,1,Accepted,33
+11,0,0,1,Compilation error,3
+11,0,0,1,Runtime error on test,14
+11,0,0,1,Time limit exceeded on test,5
+11,0,0,1,Wrong answer on test,19
+11,1,0,0,Accepted,210
+11,1,0,0,Compilation error,29
+11,1,0,0,Memory limit exceeded on test,129
+11,1,0,0,Runtime error on test,169
+11,1,0,0,Time limit exceeded on test,166
+11,1,0,0,Wrong answer on test,831
+11,1,0,1,Accepted,282
+11,1,0,1,Compilation error,7
+11,1,0,1,Memory limit exceeded on test,18
+11,1,0,1,Runtime error on test,19
+11,1,0,1,Time limit exceeded on test,19
+11,1,0,1,Wrong answer on test,77
+11,1,1,0,Accepted,314
+11,1,1,0,Compilation error,41
+11,1,1,0,Idleness limit exceeded on test,2
+11,1,1,0,Memory limit exceeded on test,161
+11,1,1,0,Runtime error on test,183
+11,1,1,0,Time limit exceeded on test,377
+11,1,1,0,Wrong answer on test,1063
+11,1,1,1,Accepted,431
+11,1,1,1,Compilation error,22
+11,1,1,1,Idleness limit exceeded on test,2
+11,1,1,1,Memory limit exceeded on test,25
+11,1,1,1,Runtime error on test,40
+11,1,1,1,Time limit exceeded on test,17
+11,1,1,1,Wrong answer on test,154
+12,0,0,0,Accepted,17
+12,0,0,0,Memory limit exceeded on test,8
+12,0,0,0,Runtime error on test,12
+12,0,0,0,Time limit exceeded on test,23
+12,0,0,0,Wrong answer on test,42
+12,0,0,1,Accepted,11
+12,0,0,1,Compilation error,1
+12,0,0,1,Wrong answer on test,3
+12,1,0,0,Accepted,308
+12,1,0,0,Compilation error,35
+12,1,0,0,Idleness limit exceeded on test,2
+12,1,0,0,Memory limit exceeded on test,149
+12,1,0,0,Runtime error on test,166
+12,1,0,0,Time limit exceeded on test,246
+12,1,0,0,Wrong answer on test,485
+12,1,0,1,Accepted,351
+12,1,0,1,Compilation error,12
+12,1,0,1,Memory limit exceeded on test,10
+12,1,0,1,Runtime error on test,50
+12,1,0,1,Time limit exceeded on test,17
+12,1,0,1,Wrong answer on test,43
+12,1,1,0,Accepted,383
+12,1,1,0,Compilation error,53
+12,1,1,0,Memory limit exceeded on test,198
+12,1,1,0,Runtime error on test,157
+12,1,1,0,Time limit exceeded on test,387
+12,1,1,0,Wrong answer on test,643
+12,1,1,1,Accepted,351
+12,1,1,1,Compilation error,16
+12,1,1,1,Memory limit exceeded on test,18
+12,1,1,1,Runtime error on test,27
+12,1,1,1,Time limit exceeded on test,16
+12,1,1,1,Wrong answer on test,37
+13,0,0,0,Accepted,16
+13,0,0,0,Compilation error,1
+13,0,0,0,Memory limit exceeded on test,3
+13,0,0,0,Runtime error on test,44
+13,0,0,0,Time limit exceeded on test,3
+13,0,0,0,Wrong answer on test,78
+13,0,0,1,Accepted,12
+13,0,0,1,Compilation error,1
+13,0,0,1,Runtime error on test,3
+13,0,0,1,Time limit exceeded on test,5
+13,0,0,1,Wrong answer on test,10
+13,1,0,0,Accepted,224
+13,1,0,0,Compilation error,24
+13,1,0,0,Memory limit exceeded on test,46
+13,1,0,0,Runtime error on test,178
+13,1,0,0,Time limit exceeded on test,77
+13,1,0,0,Wrong answer on test,675
+13,1,0,1,Accepted,375
+13,1,0,1,Compilation error,16
+13,1,0,1,Memory limit exceeded on test,10
+13,1,0,1,Runtime error on test,103
+13,1,0,1,Time limit exceeded on test,32
+13,1,0,1,Wrong answer on test,226
+13,1,1,0,Accepted,149
+13,1,1,0,Compilation error,9
+13,1,1,0,Memory limit exceeded on test,12
+13,1,1,0,Runtime error on test,100
+13,1,1,0,Time limit exceeded on test,44
+13,1,1,0,Wrong answer on test,410
+13,1,1,1,Accepted,301
+13,1,1,1,Compilation error,14
+13,1,1,1,Idleness limit exceeded on test,1
+13,1,1,1,Memory limit exceeded on test,4
+13,1,1,1,Runtime error on test,31
+13,1,1,1,Time limit exceeded on test,38
+13,1,1,1,Wrong answer on test,302
